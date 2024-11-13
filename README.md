@@ -9,4 +9,4 @@ This module needs Magisk or Magisk Delta (root access). Go to the Modules tab an
 </p>
 
 # Download
-None
+[Download module](https://github.com/Parad1st/No-Display-Cutout/releases)
