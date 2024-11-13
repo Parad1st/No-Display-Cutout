@@ -9,4 +9,4 @@
 </p>
 
 # Скачать
-Нету
+[Скачать модуль](https://github.com/Parad1st/No-Display-Cutout/releases)
