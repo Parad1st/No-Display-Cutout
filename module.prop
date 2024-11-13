@@ -1,0 +1,6 @@
+id=NoDisplayCutout
+name=No Display Cutout
+version=v1
+versionCode=1
+author=Parad1st
+description=This module adds an option to the settings to disable the cutout overlay. 
