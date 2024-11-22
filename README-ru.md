@@ -1,6 +1,8 @@
 [En](https://github.com/Parad1st/No-Display-Cutout/blob/main/README.md) [Ru](https://github.com/Parad1st/No-Display-Cutout/blob/main/README-ru.md)
 # No-Display-Cutout
-Хотите избавиться от выреза на экране своего Android-устройства? Этот модуль позволит вам скрыть его. Изначально модуль разрабатывался для кастомных прошивок, где вырез отображался некорректно, и был больше чем камера. Но также, модуль поможет вам запускать игры в полноэкранном режиме, игнорируя вырез.
+No Display Cutout - это модуль Magisk который позволяет игнорировать вырез в играх, а так же исправить неправильное отображение оверлея на некоторых прошивках.
+![Preview](https://raw.githubusercontent.com/Parad1st/No-Display-Cutout/refs/heads/main/GitHub/Images/Preview.png)
+
 # Внимание
 Этот модуль может не работать на некоторых версиях Android или прошивках. Он был протестирован на Redmi Note 8 с Pixel Experience A13 и отлично там работает.
 # Как установить
