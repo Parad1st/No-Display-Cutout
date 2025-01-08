@@ -3,8 +3,9 @@
 No Display Cutout is a Magisk module that allows you to ignore the display cutout in games and also fixes incorrect overlay rendering on some ROMs.
 ![Preview](https://raw.githubusercontent.com/Parad1st/No-Display-Cutout/refs/heads/main/GitHub/Images/Preview.png)
 
-# Disclaimer
-This module might not work on some Android version or custom ROM. It’s been tested on Redmi Note 8 with Pixel Experience A13 and works great there.
+#
+> [!WARNING]  
+> It may cause issues on some firmwares. You proceed at your own risk!
 
 # How to install
 This module needs Magisk or Magisk Delta (root access). Go to the Modules tab and pick the ZIP file.
